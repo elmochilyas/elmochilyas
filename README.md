@@ -2,7 +2,7 @@
 
 > Backend systems · Mobile infrastructure · Making things work at scale.
 
-I'm building production systems—from APIs to distributed databases to mobile apps that handle real commerce. Currently rebuilding a multi-role food marketplace with Supabase, PostGIS, and Expo. Teaching backend fundamentals at Simplon Maghreb.
+I'm building production systems—from APIs to distributed databases to mobile apps that handle real commerce. Currently rebuilding a multi-role food marketplace with Supabase, PostGIS, and Expo.
 
 ---
 
@@ -32,10 +32,11 @@ I'm building production systems—from APIs to distributed databases to mobile a
 
 ## Tech Stack
 
-**Backend** — Supabase · PostgreSQL · PostGIS · Edge Functions  
+**Backend** — Supabase · PostgreSQL · PostGIS · Edge Functions · PHP · Laravel · MySQL  
 **Mobile** — Expo · React Native · EAS Build · Detox  
 **Payments** — Stripe Connect · Commission engine  
 **Infrastructure** — GitHub Actions · Docker · CI/CD  
+**Project Management** — Jira  
 
 ---
 
@@ -44,7 +45,6 @@ I'm building production systems—from APIs to distributed databases to mobile a
 - **Marketplace rebuild** (Phase 2): Database-first architecture, security hardening
 - **Stripe integration**: Commission logic, payout workflows
 - **PostGIS**: Geospatial queries, location-based filtering
-- **Teaching**: Backend fundamentals at Simplon Maghreb
 
 ---
 
@@ -64,4 +64,4 @@ I'm building production systems—from APIs to distributed databases to mobile a
 
 Task-focused. Precision in system design. Advocate for database-first architecture, comprehensive testing, and monitoring from day one.
 
-Currently based in Agadir, Morocco. Teaching and building.
+Currently based in Agadir, Morocco.
