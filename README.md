@@ -1,91 +1,114 @@
-<h1 align="center">Ilyas El Moch 👋</h1>
-<h3 align="center">Backend Systems • Mobile Infrastructure • Scalable Commerce Solutions</h3>
+# 👋 Hi, I'm Ilyas El Moch (elmochilyas)
+### Backend Systems • Mobile Infrastructure • Scalable Commerce Solutions
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/elmochilyas?label=Follow&style=social" alt="GitHub Followers">
-  <img src="https://komarev.com/ghpvc/?username=elmochilyas&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/elmochilyas&query=public_repos&label=Public%20Repos&color=blue&style=flat-square" alt="Public Repos">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ilyas%20El%20Moch&fontSize=70&animation=fadeIn" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elmochilyas&theme=dark&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies">
-</div>
-
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/elmochilyas/elmochilyas/main/snake.svg" alt="Contribution Snake" width="100%">
-</div>
-
----
-
-## 📊 Live Stats
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=elmochilyas&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmochilyas&theme=dark&hide_border=true&date_format=M%20j%20Y" alt="Streak Stats">
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmochilyas&layout=compact&theme=dark&hide_border=true&exclude_lang=Jupyter%20Notebook" alt="Top Languages">
-</div>
-
----
-
-## 🚀 Featured Projects
-| Project | Description | Stars | Language |
-|---------|-------------|-------|----------|
-| [Bricoli](https://github.com/elmochilyas/bricoli) | Popular JavaScript project with community traction | ![Stars](https://img.shields.io/github/stars/elmochilyas/bricoli?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [Booking for A-O-HOSTELS](https://github.com/elmochilyas/booking-for-A-O-HOSTELS) | TypeScript hostel booking system | ![Stars](https://img.shields.io/github/stars/elmochilyas/booking-for-A-O-HOSTELS?style=flat-square) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [DevTrack](https://github.com/elmochilyas/DevTrack) | Lightweight project tracking tool | ![Stars](https://img.shields.io/github/stars/elmochilyas/DevTrack?style=flat-square) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [DevTrack-V2](https://github.com/elmochilyas/DevTrack-V2) | Next-gen project tracker (Blade/TS) | ![Stars](https://img.shields.io/github/stars/elmochilyas/DevTrack-V2?style=flat-square) | ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-
----
-
-## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/PostGIS-3ECF8E?style=for-the-badge&logo=postgis&logoColor=white" alt="PostGIS">
-  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Stripe-6352FF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-</div>
-
----
-
-## 📌 Current Focus
-- 🏗️ Rebuilding multi-role food marketplace with **Supabase + PostGIS + Expo**
-- 💳 Building **Stripe Connect** commission/payout workflows
-- 🗺️ Implementing geospatial filtering with **PostGIS**
-- 🚀 Developing **DevTrack V2** project management tool
-
----
-
-## 📫 Let's Connect
-<div align="center">
+<p align="center">
   <a href="https://github.com/elmochilyas">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Backend+Systems+Engineer;Mobile+Infrastructure+Developer;Scalable+Commerce+Solutions;Supabase+%2B+PostGIS+Expert" alt="Typing SVG" />
   </a>
-  <img src="https://img.shields.io/badge/Agadir-Morocco-2E8B57?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+</p>
+
+---
+
+### 👤 About Me
+I'm a Software Engineer based in **Agadir, Morocco 🇲🇦**, passionate about building robust backend systems and high-performance mobile infrastructure. Currently, I'm focusing on geospatial filtering, commission workflows with Stripe, and rebuilding multi-role marketplaces.
+
+- 🏗️ **Currently Rebuilding:** Multi-role food marketplace with **Supabase + PostGIS + Expo**.
+- 💳 **Integrating:** **Stripe Connect** for complex payout workflows.
+- 🚀 **Developing:** **DevTrack V2**, the next-gen project management tool.
+- 🗺️ **Geospatial:** Advanced filtering using **PostGIS**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/stripe-%23635BFF.svg?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/elmochilyas/bricoli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmochilyas&repo=bricoli&theme=radical" alt="bricoli" />
+  </a>
+  <a href="https://github.com/elmochilyas/DevTrack-V2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmochilyas&repo=DevTrack-V2&theme=radical" alt="DevTrack-V2" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/elmochilyas/booking-for-A-O-HOSTELS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmochilyas&repo=booking-for-A-O-HOSTELS&theme=radical" alt="booking-for-A-O-HOSTELS" />
+  </a>
+  <a href="https://github.com/elmochilyas/Marrakech-Food-Lovers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmochilyas&repo=Marrakech-Food-Lovers&theme=radical" alt="Marrakech-Food-Lovers" />
+  </a>
 </div>
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <i>⚡ Advocate for database-first architecture, comprehensive testing, and monitoring from day one.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=elmochilyas&show_icons=true&theme=radical" alt="Ilyas's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmochilyas&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmochilyas&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elmochilyas&theme=radical&no-bg=true&no-frame=true" alt="Trophies" />
+</div>
+
+---
+
+### 🐍 Contribution Graph
+<div align="center">
+  <img src="https://raw.githubusercontent.com/elmochilyas/elmochilyas/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://github.com/elmochilyas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elmochilyas&color=blueviolet" alt="Profile Views" />
+</p>
