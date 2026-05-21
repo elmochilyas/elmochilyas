@@ -1,20 +1,11 @@
-# 👋 Hi, I'm Ilyas El Moch (elmochilyas)
-### 🚀 Senior Backend Developer | Laravel & MySQL Specialist
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=004d99&height=250&section=header&text=Ilyas%20El%20Moch&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d1ff,100:001a33&height=250&section=header&text=ILYAS%20EL%20MOCH&fontSize=70&fontColor=ffffff&desc=ARCHITECTURE%20%E2%80%A2%20BACKEND%20%E2%80%A2%20SCALABILITY&descSize=22&descAlignY=65" />
 </div>
-
-<p align="center">
-  <a href="https://github.com/elmochilyas">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Laravel+Expert;MySQL+Architect;Scalable+Backend+Systems;SaaS+Infrastructure+Builder" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
 ### 👤 Profile
-I'm a **Backend Engineer** based in **Agadir, Morocco 🇲🇦**, dedicated to crafting high-performance, scalable systems. My expertise lies in the **Laravel ecosystem**, where I architect complex database structures and build robust APIs. I am passionate about database-first design, performance optimization, and clean code principles.
+I'm a **Senior Backend Engineer** based in **Agadir, Morocco 🇲🇦**, dedicated to crafting high-performance, scalable systems. My expertise lies in the **Laravel ecosystem**, where I architect complex database structures and build robust APIs. I am passionate about database-first design, performance optimization, and clean code principles.
 
 - 🛠️ **Expertise:** Advanced Laravel, MySQL Query Optimization, Database Architecture.
 - 🏗️ **Currently Building:** SaaS solutions and multi-role marketplace infrastructures.
@@ -71,27 +62,31 @@ I'm a **Backend Engineer** based in **Agadir, Morocco 🇲🇦**, dedicated to c
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <a href="https://github.com/elmochilyas/TASK-MANAGER-LARAVEL">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmochilyas&repo=TASK-MANAGER-LARAVEL&theme=radical&show_owner=true" />
-        </a>
+      <td width="50%" align="left" valign="top">
+        <h4>📋 <a href="https://github.com/elmochilyas/TASK-MANAGER-LARAVEL">TASK-MANAGER-LARAVEL</a></h4>
+        <p>Comprehensive task management system built with Laravel and MySQL. Features include role-based access, task assignment, and status tracking.</p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </td>
-      <td>
-        <a href="https://github.com/elmochilyas/DAR-MANAGER-SAAS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmochilyas&repo=DAR-MANAGER-SAAS&theme=radical&show_owner=true" />
-        </a>
+      <td width="50%" align="left" valign="top">
+        <h4>🏢 <a href="https://github.com/elmochilyas/DAR-MANAGER-SAAS">DAR-MANAGER-SAAS</a></h4>
+        <p>A multi-tenant SaaS platform for property management. Includes subscription billing, complex data isolation, and reporting.</p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://github.com/elmochilyas/DEVTRACK-V2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmochilyas&repo=DEVTRACK-V2&theme=radical&show_owner=true" />
-        </a>
+      <td width="50%" align="left" valign="top">
+        <h4>🚀 <a href="https://github.com/elmochilyas/DEVTRACK-V2">DEVTRACK-V2</a></h4>
+        <p>Next-gen development tracking tool with advanced filtering, team collaboration, and real-time updates.</p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       </td>
-      <td>
-        <a href="https://github.com/elmochilyas/CANDIDATURETRACKER-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmochilyas&repo=CANDIDATURETRACKER-&theme=radical&show_owner=true" />
-        </a>
+      <td width="50%" align="left" valign="top">
+        <h4>🎯 <a href="https://github.com/elmochilyas/CANDIDATURETRACKER-">CANDIDATURE-TRACKER</a></h4>
+        <p>Surgical backend for tracking job applications, including status history, document management, and automated reminders.</p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -99,29 +94,28 @@ I'm a **Backend Engineer** based in **Agadir, Morocco 🇲🇦**, dedicated to c
 
 ---
 
-### 📊 Vital Statistics
+### 📊 Performance Overview
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmochilyas&show_icons=true&theme=radical&count_private=true" alt="Ilyas's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmochilyas&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elmochilyas&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmochilyas&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=elmochilyas&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🏆 Engineering Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elmochilyas&theme=radical&no-bg=true&no-frame=true&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=elmochilyas&theme=onedark&no-bg=true&no-frame=true&column=3&margin-w=15&category=stars,commits,pull_requests,repositories,followers,reviews" alt="Trophies" />
 </div>
 
 ---
 
 ### 🐍 The Code Journey
 <div align="center">
-  <img src="https://raw.githubusercontent.com/elmochilyas/elmochilyas/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://ghchart.rshah.org/004d99/elmochilyas" alt="elmochilyas's GitHub Chart" />
 </div>
 
 ---
@@ -139,9 +133,9 @@ I'm a **Backend Engineer** based in **Agadir, Morocco 🇲🇦**, dedicated to c
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=google" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elmochilyas&color=004d99" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=elmochilyas&color=004d99&style=flat-square&label=SYSTEM+TRAFFIC" alt="Profile Views" />
 </p>
