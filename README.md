@@ -136,16 +136,34 @@ Current goal      → Backend roles + strong public projects + useful tools
 
 ## 🧩 Engineering focus
 
-```mermaid
-graph TD
-    A[Problem] --> B[Data Model]
-    B --> C[API Design]
-    C --> D[Validation & Authorization]
-    D --> E[Business Logic]
-    E --> F[Tests & Quality Checks]
-    F --> G[Deployable Product]
-    G --> H[Iterate and improve]
-```
+<p align="center">
+  <b>From problem to reliable backend product</b>
+</p>
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>01 · Understand</h3>
+      <p><b>Problem, users and scope</b></p>
+      <p>Start from the real need, expected behavior and constraints before writing code.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>02 · Design</h3>
+      <p><b>Data model and API contract</b></p>
+      <p>Define clean database structure, clear endpoints and simple responsibilities.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>03 · Build</h3>
+      <p><b>Logic, validation and authorization</b></p>
+      <p>Implement maintainable backend logic with safe inputs and controlled access.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>04 · Ship</h3>
+      <p><b>Tests, quality and iteration</b></p>
+      <p>Verify behavior, deliver a usable product, learn from feedback and improve.</p>
+    </td>
+  </tr>
+</table>
 
 I care about building systems that are:
 
